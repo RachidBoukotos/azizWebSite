@@ -1,0 +1,99 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= General =================== */
+
+/** General >> Post 40 woocommerce message **/
+#post-40 .woocommerce-message {
+	display: none !important;
+}
+
+/** General >> Post 40 woocommerce **/
+#post-40 .woocommerce {
+	
+}
+
+/** General >> Woocommerce form coupon toggle woocommerce info **/
+.woocommerce-form-coupon-toggle .woocommerce-info {
+	display: none !important;
+}
+
+/** General >> Woocommerce shipping totals table heading **/
+.woocommerce-shipping-totals th {
+	display: none !important;
+}
+
+/** General >> Shipping method label **/
+#shipping_method label {
+	display: none !important;
+}
+
+/** General >> Order total table heading **/
+.order-total th {
+	display: none !important;
+}
+
+/** General >> Order total bdi **/
+.order-total bdi {
+	display: none !important;
+}
+
+/** General >> Order total table data **/
+.order-total td {
+	display: none !important;
+}
+
+/** General >> Woocommerce shipping totals table data **/
+.woocommerce-shipping-totals td {
+	display: none !important;
+}
+
+/** General >> Payment woocommerce notice info **/
+#payment .woocommerce-notice--info {
+	display: none !important;
+}
+
+/** General >> Payment paragraph **/
+#payment p {
+	display: block !important;
+}
+
+/** General >> Place order **/
+#place_order {
+	background: #16a085 !important;
+}
+
+/** General >> Ship to different address **/
+#ship-to-different-address {
+	display: none !important;
+}
+
+/** General >> Elementor element 56ec479c elementor element populated **/
+.elementor-element-56ec479c .elementor-element-populated {
+	background: #fff !important;
+	padding: 40px 20px 40px 20px !important;
+	margin: 40px !important;
+	border-top: 4px solid #467ff7 !important;
+	border-color: #467ff7 #ff6900 #ff6900 #ff6900 !important;
+	border-color: #16a085 !important;
+}
+
+/** General >> Post 40 elementor element 3d105c6f **/
+#post-40 .elementor-element-3d105c6f {
+	
+}
+
+
+/*( < 480 )*/
+@media (max-width: 479.98px) {
+
+	/*= General =================== */
+
+	/** General >> Elementor element 56ec479c elementor element populated **/
+	.elementor-element-56ec479c .elementor-element-populated {
+	
+}
+
+
+}
+
